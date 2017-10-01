@@ -14,3 +14,4 @@
 * http://kinetic.com.sg/main.html 好き
 * http://wefail.com/
 * http://www.goodboydigital.com/
+* http://ff0000.com/
