@@ -5,9 +5,11 @@
 * http://www.tezzosuzuki.com/
 * http://www.yuni-yoshida.com/
 * http://www.ki-gi.com/
-* http://www.moshi-moshi.jp/
+* http://www.moshi-moshi.jp/ _ graph
 
 # 外国人（アジア）
+* http://www.alonglongtime.me/
+
 
 
 # 外国人（アジア以外）
