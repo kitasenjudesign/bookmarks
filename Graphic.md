@@ -20,7 +20,7 @@
 * http://mainstudio.com/ _ おしゃれ
 * http://www.studiofnt.com/
 * http://non-format.com/
-
+* http://www.theroyalstudio.com/
 
 # 日本人
 * http://www.allrightgraphics.com/
