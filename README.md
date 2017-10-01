@@ -8,9 +8,3 @@ creator/production bookmarks
 * [Japanese](https://github.com/kitasenjudesign/bookmarks/blob/master/Japanese.md)
 * [Motion](https://github.com/kitasenjudesign/bookmarks/blob/master/Motion.md)
 * [Reference](https://github.com/kitasenjudesign/bookmarks/blob/master/Reference.md)
-
-by https://kitasenjudesign.com/
-
-
-
- 
