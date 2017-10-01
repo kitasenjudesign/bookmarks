@@ -5,7 +5,7 @@
 * [Unity](https://github.com/kitasenjudesign/bookmarks/blob/master/Unity.md)
 * [Japanese](https://github.com/kitasenjudesign/bookmarks/blob/master/Japanese.md)
 * [Motion](https://github.com/kitasenjudesign/bookmarks/blob/master/Motion.md)
-* [Motion](https://github.com/kitasenjudesign/bookmarks/blob/master/Reference.md)
+* [Reference](https://github.com/kitasenjudesign/bookmarks/blob/master/Reference.md)
 
 
 
