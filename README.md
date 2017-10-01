@@ -1,4 +1,4 @@
-# クリエーター/制作会社ブックマーク
+# クリエーター/制作会社 Bookmarks
 
 * [Graphic](https://github.com/kitasenjudesign/bookmarks/blob/master/Graphic.md)
 * [WebGL](https://github.com/kitasenjudesign/bookmarks/blob/master/WebGL.md)
