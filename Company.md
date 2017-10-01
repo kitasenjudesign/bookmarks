@@ -13,3 +13,4 @@
 * https://www.netro.cc/ おしゃれ
 * http://kinetic.com.sg/main.html 好き
 * http://wefail.com/
+* http://www.goodboydigital.com/
