@@ -1,12 +1,6 @@
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
-# 日本人
-* http://www.allrightgraphics.com/
-* http://www.tezzosuzuki.com/
-* http://www.yuni-yoshida.com/
-* http://www.ki-gi.com/
-* http://www.moshi-moshi.jp/ _ graph
-* http://rikako-nagashima.com/
+
 
 # 外国人（アジア）
 * http://www.alonglongtime.me/
@@ -15,6 +9,18 @@
 * http://www.studiofnt.com/
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
+http://www.oniondesign.com.tw/
 
 # 外国人（アジア以外）
 * http://unfun.de/
+* http://www.barnbrook.net/ _ ジョナサンバーンブルック
+* http://sagmeisterwalsh.com/ _ さぐまいすた
+
+
+# 日本人
+* http://www.allrightgraphics.com/
+* http://www.tezzosuzuki.com/
+* http://www.yuni-yoshida.com/
+* http://www.ki-gi.com/
+* http://www.moshi-moshi.jp/ _ graph
+* http://rikako-nagashima.com/
