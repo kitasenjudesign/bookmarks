@@ -9,13 +9,15 @@
 * http://www.studiofnt.com/
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
-http://www.oniondesign.com.tw/
+* http://www.oniondesign.com.tw/
+* https://u-d-l.com/
 
 # 外国人（アジア以外）
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
 * http://sagmeisterwalsh.com/ _ さぐまいすた
-
+* http://mainstudio.com/ _ おしゃれ
+* http://www.studiofnt.com/
 
 # 日本人
 * http://www.allrightgraphics.com/
