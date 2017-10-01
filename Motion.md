@@ -10,6 +10,7 @@
 * http://kouheinakama.com/ _ 反応拡散系のすごいやつ
 * http://stnw.org/ _ slitscanがすごい
 * http://tatsuya-m.tumblr.com/ _ gifがいいかんじ
+* https://vimeo.com/nobutaka _ タッチデザイナーの動画
 
 ## 映像系
 * https://plus.google.com/+micaelreynaud LOOPすごい
