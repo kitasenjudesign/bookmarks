@@ -15,3 +15,4 @@
 * http://wefail.com/
 * http://www.goodboydigital.com/
 * http://ff0000.com/
+* http://netro.cc
