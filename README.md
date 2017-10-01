@@ -16,7 +16,7 @@
 * https://29a.ch/experiments _ 流体
 
 ## ゴリゴリ系
-* http://colordodge.com 拡散系
+* http://colordodge.com 反応拡散系ほか
 * http://www.mark-lundin.com/
 * http://johnnyslack.co/ _ 心臓っぽいのとか、有機的なものを 動かす
 * http://edankwan.com/
