@@ -1,4 +1,3 @@
-クリエーター/制作会社 ブックマーク _ 
 creator/production bookmarks
 
 * [Graphic](https://github.com/kitasenjudesign/bookmarks/blob/master/Graphic.md)
