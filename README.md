@@ -1,4 +1,5 @@
-# クリエーター/制作会社 Bookmarks
+クリエーター/制作会社 ブックマーク
+creator/production bookmarks
 
 * [Graphic](https://github.com/kitasenjudesign/bookmarks/blob/master/Graphic.md)
 * [WebGL](https://github.com/kitasenjudesign/bookmarks/blob/master/WebGL.md)
@@ -8,7 +9,7 @@
 * [Motion](https://github.com/kitasenjudesign/bookmarks/blob/master/Motion.md)
 * [Reference](https://github.com/kitasenjudesign/bookmarks/blob/master/Reference.md)
 
-
+by https://kitasenjudesign.com/
 
 
 
