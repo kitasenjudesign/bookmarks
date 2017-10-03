@@ -7,3 +7,7 @@
 * [Japanese](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Japanese.md)
 * [Motion](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Motion.md)
 * [Reference](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Reference.md)
+
+--
+
+* [CreativeCodingDictionary](https://github.com/kitasenjudesign/CreativeCodingDictionary)
