@@ -8,3 +8,4 @@
 * http://bm.straightline.jp/
 * https://www.pinterest.com/yuichiroharai/visual/ arai san bookmark
 * https://www.instagram.com/visual.fodder/ visual folder
+* http://hoverstat.es
