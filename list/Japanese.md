@@ -28,3 +28,5 @@
 * http://su8erlemon.com/
 
 ## ゴリゴリ
+* http://gam0022.net/
+* 
