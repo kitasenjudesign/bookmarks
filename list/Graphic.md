@@ -37,4 +37,5 @@
 * http://rikako-nagashima.com/
 * http://sasakishun.tumblr.com/
 * http://www.emuni.co.jp/
+* http://nnnny.jp/ 
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
