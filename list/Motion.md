@@ -28,3 +28,4 @@
 * http://weirdcore.tv/ aphex twin　の VJとか
 * https://www.instagram.com/shurly.nl/ グラフィック系CG
 * https://www.dirkkoy.com/ 
+* http://www.davidoreilly.com/ david オライリー
