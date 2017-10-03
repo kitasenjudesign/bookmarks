@@ -1,7 +1,8 @@
 
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
-## 日本人
+
+## おしゃれ
 * https://tkmh.me/
 * http://onscreen.jp/
 * http://nulldesign.jp/
@@ -25,3 +26,5 @@
 * http://baku89.com/ 
 * https://murasaki-uma.github.io/webglvj_02/
 * http://su8erlemon.com/
+
+## ゴリゴリ
