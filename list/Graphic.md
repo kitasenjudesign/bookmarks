@@ -2,7 +2,7 @@
 
 
 
-# 外国人（アジア）
+# Asia
 * http://www.alonglongtime.me/
 * http://www.gd-morning.org/jim
 * http://wangzhihong.com/
@@ -16,7 +16,7 @@
 * http://foreignpolicy.design/
 
 
-# 外国人（アジア以外）
+# Other than Asia
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
 * http://sagmeisterwalsh.com/ _ さぐまいすた
@@ -28,7 +28,7 @@
 * https://www.eps51.com/
 * https://www.mmparis.com/
 
-# 日本人
+# Japanese
 * http://www.allrightgraphics.com/
 * http://www.tezzosuzuki.com/
 * http://www.yuni-yoshida.com/
