@@ -27,6 +27,7 @@
 * https://www.behance.net/wearegolden _ golden
 * https://www.eps51.com/
 * https://www.mmparis.com/
+* http://www.michaelpaulyoung.com/ 
 
 # Japanese
 * http://www.allrightgraphics.com/
