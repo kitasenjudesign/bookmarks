@@ -38,4 +38,5 @@
 * http://sasakishun.tumblr.com/
 * http://www.emuni.co.jp/
 * http://nnnny.jp/ 
+* http://hydekick.jp
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
