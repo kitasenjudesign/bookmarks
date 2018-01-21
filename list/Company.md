@@ -10,9 +10,9 @@
 * http://www.pillandpillow.com/
 * http://www.universaleverything.com/  
 * https://studiomoniker.com/ アムステルダム
-* https://www.netro.cc/ おしゃれ
+* https://www.netro.cc/ 大好き
 * http://kinetic.com.sg/main.html 好き
 * http://wefail.com/
 * http://www.goodboydigital.com/
 * http://ff0000.com/
-* http://netro.cc
+* https://tendril.ca/ かわいい
