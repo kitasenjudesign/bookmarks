@@ -13,6 +13,7 @@
 * http://stnw.org/ _ slitscanがすごい
 * http://tatsuya-m.tumblr.com/ _ gifがいいかんじ
 * https://vimeo.com/nobutaka _ タッチデザイナーの動画
+* https://kawaii-nekochan.com/ _ 水曜日
 
 ## 映像系
 * https://plus.google.com/+micaelreynaud LOOPすごい
