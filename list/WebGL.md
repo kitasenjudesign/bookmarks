@@ -57,7 +57,7 @@
 * http://minmax.design/ generative machineを作った人
 
 ## ライト系
-* https://www.aristidebenoist.com/ スペイン
+* https://www.aristidebenoist.com/ _ スペイン
 * http://generative.systems/ _ 品良くハイクオリティ
 * http://brunoimbrizi.com/experiments/ _ 地下鉄とか
 * http://hellomonday.com/
