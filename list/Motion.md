@@ -14,7 +14,7 @@
 * http://tatsuya-m.tumblr.com/ _ gifがいいかんじ
 * https://vimeo.com/nobutaka _ タッチデザイナーの動画
 * https://kawaii-nekochan.com/ _ 水曜日
-
+* https://vimeo.com/furifurisoshiki そーしき
 ## 映像系
 * https://plus.google.com/+micaelreynaud LOOPすごい
 * http://omoss.io/ fitc とか おもしろシミュレーション
@@ -29,4 +29,4 @@
 * http://weirdcore.tv/ aphex twin　の VJとか
 * https://www.instagram.com/shurly.nl/ グラフィック系CG
 * https://www.dirkkoy.com/ 
-* http://www.davidoreilly.com/ david オライリー
+* http://www.davidoreilly.com/ david オライリー*
