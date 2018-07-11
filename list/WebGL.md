@@ -89,4 +89,6 @@
 * http://www.face-gifer.com/
 * http://www.wefail.com/
 * http://www.theageofmammals.com/burgers/
-* http://www.martin-h.com/
+* http://www.martin-h.com/ _ wefail
+* https://www.saraludy.com/
+
