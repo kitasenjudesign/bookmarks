@@ -16,3 +16,5 @@
 * http://www.goodboydigital.com/
 * http://ff0000.com/
 * https://tendril.ca/ かわいい
+* http://kinetic.com.sg/main.html kineitc
+
