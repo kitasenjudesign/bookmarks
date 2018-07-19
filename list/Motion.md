@@ -1,6 +1,6 @@
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
-## モーショングラフィッカー (日本人)
+## 日本人
 * http://www.takafumitsuchiya.com/ _ takcom
 * http://tangram.to/
 * http://www.kojiaramaki.org/
@@ -15,6 +15,7 @@
 * https://vimeo.com/nobutaka _ タッチデザイナーの動画
 * https://kawaii-nekochan.com/ _ 水曜日
 * https://vimeo.com/furifurisoshiki そーしき
+* http://www.swimmingdesign.com/
 
 ## 映像系
 * https://ugly-film.com/parking-lot CGの馴染みと違和感がすごい
