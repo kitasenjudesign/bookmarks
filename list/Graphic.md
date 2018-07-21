@@ -30,7 +30,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
-* http://www.masakihanahara.com/
+* http://www.masakihanahara.com/ _ shiseido
 * http://www.allrightgraphics.com/
 * http://www.tezzosuzuki.com/
 * http://www.yuni-yoshida.com/
