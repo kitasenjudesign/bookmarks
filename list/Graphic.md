@@ -42,6 +42,7 @@
 * http://nnnny.jp/ 
 * http://hydekick.jp
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
+* http://oharadaijiro.com/
 
 # Matome
 * https://www.typographicposters.com/ 
