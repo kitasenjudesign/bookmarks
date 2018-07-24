@@ -15,7 +15,6 @@
 * http://aaronnieh.tumblr.com/
 * http://foreignpolicy.design/
 
-
 # Other than Asia
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
@@ -32,17 +31,19 @@
 # Japanese
 * http://www.masakihanahara.com/ _ shiseido
 * http://www.allrightgraphics.com/
-* http://www.tezzosuzuki.com/
 * http://www.yuni-yoshida.com/
 * http://www.ki-gi.com/
 * http://www.moshi-moshi.jp/ _ graph
 * http://rikako-nagashima.com/
-* http://sasakishun.tumblr.com/
 * http://www.emuni.co.jp/
 * http://nnnny.jp/ 
 * http://hydekick.jp
-* http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
+
+# Ja Typo
+* http://sasakishun.tumblr.com/
+* http://www.tezzosuzuki.com/
 * http://oharadaijiro.com/
 
 # Matome
+* http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
