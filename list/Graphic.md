@@ -39,7 +39,7 @@
 * http://nnnny.jp/ 
 * http://hydekick.jp
 
-# Ja Typo
+# Japanese (Typo)
 * http://sasakishun.tumblr.com/
 * http://www.tezzosuzuki.com/
 * http://oharadaijiro.com/
