@@ -16,8 +16,10 @@
 * https://kawaii-nekochan.com/ _ 水曜日
 * https://vimeo.com/furifurisoshiki そーしき
 * http://www.swimmingdesign.com/
+* http://westronica.tumblr.com/
 
-## 映像系
+
+## motion
 * https://ugly-film.com/parking-lot CGの馴染みと違和感がすごい
 * https://plus.google.com/+micaelreynaud LOOPすごい
 * http://omoss.io/ fitc とか おもしろシミュレーション
@@ -34,3 +36,4 @@
 * https://www.dirkkoy.com/ 
 * http://www.davidoreilly.com/ david オライリー
 * https://www.instagram.com/michaelmarczewski/ _ MR 
+
