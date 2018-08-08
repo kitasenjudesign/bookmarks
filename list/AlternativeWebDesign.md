@@ -10,7 +10,8 @@
 
 
 ## japan
+* http://www.semitransparentdesign.com/ semitra
+* http://shunyahagiwara.com/
 
-
-## matome
+## AlternativeWebDesign Bookmarks
 * https://hoverstat.es/
