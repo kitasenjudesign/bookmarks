@@ -3,6 +3,7 @@
 
 # japanese developer
 
+* http://blackout-sketch.com/
 * https://tkmh.me/
 * http://onscreen.jp/
 * http://nulldesign.jp/
