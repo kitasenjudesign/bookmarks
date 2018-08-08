@@ -1,7 +1,7 @@
 
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
-# japanese developers
+# japanese developer
 
 * https://tkmh.me/
 * http://onscreen.jp/
