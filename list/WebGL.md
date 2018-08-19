@@ -15,6 +15,7 @@
 * http://mattdesl.com/ wireframeのやつ。
 
 ## ゴリゴリ系
+* https://twitter.com/manoloidee p5グラフィックすごい
 * https://grgrdvrt.com/ スケッチの量がえぐい
 * http://colordodge.com 反応拡散系ほか
 * http://www.mark-lundin.com/
