@@ -21,9 +21,7 @@
 
 ## motion
 * https://ugly-film.com/parking-lot CGの馴染みと違和感がすごい
-* https://plus.google.com/+micaelreynaud LOOPすごい
 * http://omoss.io/ fitc とか おもしろシミュレーション
-* http://beesandbombs.tumblr.com/ gif アニの鬼
 * http://pesfilm.com/ _ PES stop motion の鬼
 * http://oliverlaric.com/
 * http://francoisvogel.com/ _ vogel
@@ -36,6 +34,11 @@
 * https://www.dirkkoy.com/ 
 * http://www.davidoreilly.com/ david オライリー
 * https://www.instagram.com/michaelmarczewski/ _ MR 
+
+## GIF loop
+* https://plus.google.com/+micaelreynaud LOOPすごい
+* http://beesandbombs.tumblr.com/ gif アニの鬼
+
 
 ## displacementmap memo
 * http://baku89.com/list/disp-effects-artists
