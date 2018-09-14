@@ -8,6 +8,7 @@
 * https://github.com/hiroakioishi
 * http://creativeuniverse.tokyo/portfolio/
 * http://esprog.hatenablog.com/ _ ink
+* https://twitter.com/setchi _ setchi
 
 ## game
 * http://ksym.jp/ _ くそゲーム
