@@ -21,6 +21,8 @@
 
 
 ## motion
+* https://twitter.com/Kim__Laughton エスカレーター
+* http://zawada.art/ 
 * https://ugly-film.com/parking-lot CGの馴染みと違和感がすごい
 * http://omoss.io/ fitc とか おもしろシミュレーション
 * http://pesfilm.com/ _ PES stop motion の鬼
