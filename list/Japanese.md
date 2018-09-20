@@ -42,7 +42,7 @@
 * http://alumican.net/
 * http://baku89.com/ 
 * https://twitter.com/jagarikin _ じゃがりきん
-
+* http://qubibi.org/
 
 ## kaisya
 
