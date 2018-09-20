@@ -3,12 +3,26 @@
 
 # japanese developer
 
+## webgl
+
 * http://blackout-sketch.com/
 * https://tkmh.me/
+* http://ikeryou.jp/
+* http://kenji-special.info/
+* http://www.yuichiroharai.com/wgl/ _ webgl
+* https://murasaki-uma.github.io/webglvj_02/
+* http://su8erlemon.com/
+* http://gam0022.net/
+* http://fms-cat.com/
+* http://ykob.github.io/sketch-threejs/
+* http://sretks.com/
+* https://experiments.p5aholic.me/
+
+## other
+
 * http://onscreen.jp/
 * http://nulldesign.jp/
 * http://eiji.muroichi.info/
-* http://kenji-special.info/
 * http://kitasenjudesign.com/
 * http://gumob.com/
 * http://www.smooooth.net/
@@ -19,17 +33,9 @@
 * http://www.fladdict.net/
 * http://www.hvn.to/files/index.html
 * http://false.jp/
-* http://ikeryou.jp/
-* http://www.yuichiroharai.com/wgl/ _ webgl
 * http://nariyu.jp/shusaku/
 * http://alumican.net/
-* http://sretks.com/
 * http://baku89.com/ 
-* https://murasaki-uma.github.io/webglvj_02/
-* http://su8erlemon.com/
-* http://gam0022.net/
-* http://fms-cat.com/
-* http://ykob.github.io/sketch-threejs/
 * https://twitter.com/jagarikin _ じゃがりきん
-* http://p5aholic.me/
+
 
