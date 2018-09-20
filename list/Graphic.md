@@ -35,7 +35,7 @@
 * http://www.ki-gi.com/
 * http://www.moshi-moshi.jp/ _ graph
 * http://rikako-nagashima.com/
-* http://www.emuni.co.jp/
+* http://www.emuni.co.jp/ m2
 * http://nnnny.jp/ 
 * http://hydekick.jp web
 * http://hirokahasegawa.com/ web
