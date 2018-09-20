@@ -17,6 +17,7 @@
 * https://vimeo.com/furifurisoshiki そーしき
 * http://www.swimmingdesign.com/
 * http://westronica.tumblr.com/
+* http://www.kantamochida.info/ ラーメン、米
 
 
 ## motion
