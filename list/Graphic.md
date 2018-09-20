@@ -37,7 +37,8 @@
 * http://rikako-nagashima.com/
 * http://www.emuni.co.jp/
 * http://nnnny.jp/ 
-* http://hydekick.jp
+* http://hydekick.jp web
+* http://hirokahasegawa.com/ web
 
 # Japanese (Typo)
 * http://sasakishun.tumblr.com/
