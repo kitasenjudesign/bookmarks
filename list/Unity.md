@@ -5,6 +5,7 @@
 * http://leon196.github.io/　
 * http://notargs.com/blog/　
 * http://mattatz.github.io/ _ webglも
+* https://twitter.com/sugi_cho
 * https://github.com/hiroakioishi
 * http://creativeuniverse.tokyo/portfolio/
 * http://esprog.hatenablog.com/ _ ink
