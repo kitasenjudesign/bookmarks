@@ -7,6 +7,8 @@
 * http://www.pillowandpill.com/bmpp/
 * http://bm.straightline.jp/
 * https://www.pinterest.com/yuichiroharai/visual/ arai san bookmark
+* https://tkmh.me/bookmarks/ hasegawa san bookmark
 * https://www.instagram.com/visual.fodder/ visual folder
 * http://hoverstat.es
 * https://uxdaystokyo.com/articles/
+* https://vimeo.com/channels/staffpicks _ staffpick
