@@ -12,11 +12,15 @@
 * http://www.yuichiroharai.com/wgl/ _ webgl
 * https://murasaki-uma.github.io/webglvj_02/
 * http://su8erlemon.com/
-* http://gam0022.net/
-* http://fms-cat.com/
 * http://ykob.github.io/sketch-threejs/
 * http://sretks.com/
 * https://experiments.p5aholic.me/
+
+## gachi
+* https://twitter.com/mike_at_cg _ スーパー日曜プログラマー
+* http://gam0022.net/
+* http://fms-cat.com/
+
 
 ## other
 
