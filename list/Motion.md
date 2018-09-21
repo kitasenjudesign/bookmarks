@@ -15,7 +15,7 @@
 * https://vimeo.com/nobutaka _ タッチデザイナーの動画
 * https://kawaii-nekochan.com/ _ 水曜日
 * https://vimeo.com/furifurisoshiki そーしき
-* http://www.swimmingdesign.com/
+* http://www.swimmingdesign.com/ _ kaisan
 * http://westronica.tumblr.com/
 * http://www.kantamochida.info/ ラーメン、米
 
