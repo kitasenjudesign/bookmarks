@@ -29,6 +29,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* http://www.nakamuranorio.com/ 
 * http://www.masakihanahara.com/ _ shiseido
 * http://www.allrightgraphics.com/
 * http://www.yuni-yoshida.com/
@@ -44,6 +45,7 @@
 * http://sasakishun.tumblr.com/
 * http://www.tezzosuzuki.com/
 * http://oharadaijiro.com/
+* http://dainippon.type.org/ 
 
 # Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
