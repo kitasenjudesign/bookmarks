@@ -8,12 +8,14 @@
 * https://twitter.com/sugi_cho
 * https://github.com/hiroakioishi
 * http://creativeuniverse.tokyo/portfolio/
-* https://twitter.com/setchi _ setchi
+
 
 ## 他
 * http://github.com/keijiro/
 * http://leon196.github.io/　
 * http://esprog.hatenablog.com/ _ ink
+* https://twitter.com/setchi _ setchi
+
 
 ## game
 * http://ksym.jp/ _ くそゲーム
