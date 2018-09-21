@@ -41,6 +41,10 @@
 * http://nnnny.jp/ 
 * http://hydekick.jp web
 * http://hirokahasegawa.com/ web
+* https://mr-design.jp/
+* http://gooddesigncompany.com/
+* https://www.tsdo.jp/
+* https://sun-ad.co.jp/
 
 # Japanese (Typo)
 * http://sasakishun.tumblr.com/
@@ -51,8 +55,4 @@
 # Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
-
-# 会社
-* https://www.tsdo.jp/
-* https://sun-ad.co.jp/
 
