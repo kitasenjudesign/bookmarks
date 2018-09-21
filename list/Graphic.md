@@ -51,3 +51,8 @@
 # Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
+
+# 会社
+* https://www.tsdo.jp/
+* https://sun-ad.co.jp/
+
