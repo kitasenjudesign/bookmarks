@@ -29,6 +29,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* http://kashiwasato.com/
 * http://www.nakamuranorio.com/ 
 * http://www.masakihanahara.com/ _ shiseido
 * http://www.allrightgraphics.com/
