@@ -39,7 +39,6 @@
 * http://rikako-nagashima.com/
 * http://www.emuni.co.jp/ m2
 * http://nnnny.jp/ 
-* http://hydekick.jp web
 * http://hirokahasegawa.com/ web
 * https://mr-design.jp/
 * http://gooddesigncompany.com/
