@@ -83,6 +83,7 @@
 * http://www.ibiblio.org/e-notes/webgl/webgl.htm _ webgl,波とか
 
 ## カオス系
+* http://clickbecause.net/ よい
 * http://ravenkwok.com/doge-goo/ 犬が動いてます  
 * http://beesandbombs.tumblr.com/ gifアニの神
 * http://www.kinetic.com.sg/
