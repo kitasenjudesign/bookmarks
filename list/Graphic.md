@@ -16,6 +16,7 @@
 * http://foreignpolicy.design/
 
 # Other than Asia
+* http://www.johnwarwicker.com/ _ johnwarwicker
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
 * http://sagmeisterwalsh.com/ _ さぐまいすた
