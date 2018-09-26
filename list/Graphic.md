@@ -30,6 +30,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* http://www.yoshirotten.com/ 
 * https://twitter.com/makiju _ maki jujiro
 * http://kashiwasato.com/
 * http://www.nakamuranorio.com/ 
