@@ -29,6 +29,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* https://twitter.com/makiju _ maki jujiro
 * http://kashiwasato.com/
 * http://www.nakamuranorio.com/ 
 * http://www.masakihanahara.com/ _ shiseido
