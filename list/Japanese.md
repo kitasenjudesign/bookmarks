@@ -32,7 +32,6 @@
 * http://kitasenjudesign.com/
 * http://gumob.com/
 * http://www.smooooth.net/
-* http://sisan.co.jp/
 * http://2bit.jp/
 * http://chpy.jp/
 * http://satcy.net/
