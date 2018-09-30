@@ -25,7 +25,7 @@
 * http://gam0022.net/
 
 
-## other
+## Iroiro
 * https://fab2.ninja/
 * http://onscreen.jp/
 * http://nulldesign.jp/
@@ -46,7 +46,7 @@
 * https://twitter.com/jagarikin _ じゃがりきん
 * http://qubibi.org/
 
-## kaisya
+## Kaisya
 
 * https://homunculus.jp/
 * https://garden-eight.com/
