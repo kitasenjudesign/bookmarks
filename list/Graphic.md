@@ -16,6 +16,7 @@
 * http://foreignpolicy.design/
 
 # Other than Asia
+* https://baotnguyen.com/projects _ スパイダーマン
 * http://www.johnwarwicker.com/ _ johnwarwicker
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
