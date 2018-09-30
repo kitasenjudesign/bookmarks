@@ -7,6 +7,7 @@
 * http://ezramiller.biz/ _ シェーダーやばい系
 * http://ezra.io/portfolio/ 上と同じ
 * http://pixlpa.com/ _ Webglカオス、変な模様
+* https://vimeo.com/pixlpa
 * http://adamferriss.com/ shaderを操る男
 * http://cabbi.bo/ threejsも
 * http://vincemckelvie.tumblr.com/ _ 映像にマッチムーブした謎CGとか
