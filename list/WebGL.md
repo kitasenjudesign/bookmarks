@@ -6,7 +6,7 @@
 * http://www.kynd.info/log/ _ kynd シェーダーの神
 * http://ezramiller.biz/ _ シェーダーやばい系
 * http://ezra.io/portfolio/ 上と同じ
-* http://pixlpa.com/ _ Webglカオス、変な模様
+* http://pixlpa.com/ _ Webglカオス、変な模様、すき
 * https://vimeo.com/pixlpa
 * http://adamferriss.com/ shaderを操る男
 * http://cabbi.bo/ threejsも
@@ -26,7 +26,7 @@
 * http://mystaticself.com/ _ エフェクトがおしゃれ
 * http://haptic-data.com/
 * http://marcinignac.com/experiments/
-* http://www.leanderherzog.ch/ _ WebGL/Canvas
+* http://www.leanderherzog.ch/ _ すき　eanderherzog
 * http://reas.com/ _ p5
 * http://soulwire.co.uk/
 * http://mario-klingemann.tumblr.com/
@@ -60,7 +60,7 @@
 
 ## ライト系
 * https://www.aristidebenoist.com/ _ スペイン
-* http://generative.systems/ _ 品良くハイクオリティ
+* http://generative.systems/ _ gene
 * http://brunoimbrizi.com/experiments/ _ 地下鉄とか
 * http://hellomonday.com/
 * http://www.acnplwgl.com/ _ 実験サイト_WebGL&Canvas
