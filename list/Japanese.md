@@ -42,7 +42,7 @@
 * https://saqoo.sh/a/
 
 ## Gachi
-* https://twitter.com/mike_at_cg _ スーパー日曜プログラマー
+* https://twitter.com/mike_at_cg _ 超日曜プログラマー
 * http://gam0022.net/
 
 
