@@ -18,7 +18,6 @@
 * https://www.daijima.jp/
 * https://experiments.p5aholic.me/
 * http://fms-cat.com/
-* https://fab2.ninja/
 
 ## Gachi
 * https://twitter.com/mike_at_cg _ スーパー日曜プログラマー
