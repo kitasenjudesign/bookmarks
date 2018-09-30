@@ -13,7 +13,6 @@
 * http://vincemckelvie.tumblr.com/ _ 映像にマッチムーブした謎CGとか
 * http://www.vincemckelvie.com/ _ 謎CG 
 * https://29a.ch/experiments _ 流体
-* http://mattdesl.com/ wireframeのやつ。
 
 ## ゴリゴリ系
 * https://twitter.com/manoloidee p5グラフィックすごい、量もえぐい
@@ -57,6 +56,7 @@
 * http://mikkoh.com/ _ jam3 とかのデベロッパ？
 * http://new.marpi.pl/ _ github のビジュアライザ
 * http://minmax.design/ generative machineを作った人
+* http://mattdesl.com/ wireframeのやつ。
 
 ## ライト系
 * https://www.aristidebenoist.com/ _ スペイン
