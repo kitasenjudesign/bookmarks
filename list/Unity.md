@@ -16,6 +16,8 @@
 
 ## 情報
 * http://notargs.com/blog/　
+* http://edom18.hateblo.jp/
+
 
 
 ## game
