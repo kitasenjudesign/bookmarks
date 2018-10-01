@@ -41,7 +41,7 @@
 ## GIF loop
 * https://plus.google.com/+micaelreynaud LOOPすごい
 * http://beesandbombs.tumblr.com/ gif アニの鬼
-
+* http://kengarex.com/a-collection-of-24-hypnotizing-meditation-gifs/?ref=5924
 
 ## displacementmap memo
 * http://baku89.com/list/disp-effects-artists
