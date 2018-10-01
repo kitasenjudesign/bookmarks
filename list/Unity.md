@@ -8,16 +8,18 @@
 * https://github.com/hiroakioishi
 * http://creativeuniverse.tokyo/portfolio/
 * https://twitter.com/kaiware007
+* https://twitter.com/sakope
+* https://twitter.com/kodai100_tw
 
 ## 他
 * http://github.com/keijiro/
-* http://leon196.github.io/　
-* http://esprog.hatenablog.com/ _ ink
 * https://twitter.com/setchi _ setchi
+* http://leon196.github.io/　
 
 ## 情報
 * http://notargs.com/blog/　
 * http://edom18.hateblo.jp/
+* http://esprog.hatenablog.com/ _ inkの技
 
 
 
