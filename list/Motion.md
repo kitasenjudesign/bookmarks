@@ -21,6 +21,7 @@
 
 
 ## motion
+* https://www.instagram.com/luigihonorat/ ルイジ　彫刻
 * https://twitter.com/Kim__Laughton エスカレーター
 * http://zawada.art/ 
 * https://ugly-film.com/parking-lot CGの馴染みと違和感がすごい
