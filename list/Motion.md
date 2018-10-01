@@ -4,7 +4,7 @@
 * http://www.takafumitsuchiya.com/ _ takcom
 * http://tangram.to/
 * http://www.kojiaramaki.org/
-* https://vimeo.com/album/1526725
+* https://vimeo.com/album/1526725 hosogane
 * http://takashiohashi.com/
 * http://densuke28.com/
 * http://yohsukechiai.com/
