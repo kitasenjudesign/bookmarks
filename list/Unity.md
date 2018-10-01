@@ -8,13 +8,14 @@
 * https://github.com/hiroakioishi
 * http://creativeuniverse.tokyo/portfolio/
 
-
 ## 他
-* http://notargs.com/blog/　
 * http://github.com/keijiro/
 * http://leon196.github.io/　
 * http://esprog.hatenablog.com/ _ ink
 * https://twitter.com/setchi _ setchi
+
+## 情報
+* http://notargs.com/blog/　
 
 
 ## game
