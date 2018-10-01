@@ -7,6 +7,7 @@
 * https://twitter.com/sugi_cho
 * https://github.com/hiroakioishi
 * http://creativeuniverse.tokyo/portfolio/
+* https://twitter.com/kaiware007
 
 ## 他
 * http://github.com/keijiro/
