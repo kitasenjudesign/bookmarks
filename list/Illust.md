@@ -4,3 +4,4 @@
 * http://www.himaa.cc/
 * https://www.instagram.com/kikillokikillo/
 * https://twitter.com/negaigotokanau
+* https://www.instagram.com/yudai_nishi/
