@@ -1,6 +1,8 @@
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
 ## 日本人
+* http://www.saigono.info/ saigo
+* https://www.imoredy.com/ mizusiri
 * http://www.takafumitsuchiya.com/ _ takcom
 * http://tangram.to/
 * http://www.kojiaramaki.org/
@@ -18,6 +20,7 @@
 * http://www.swimmingdesign.com/ _ kaisan
 * http://westronica.tumblr.com/
 * http://www.kantamochida.info/ ラーメン、米
+
 
 
 ## motion
