@@ -48,4 +48,6 @@
 * http://kengarex.com/a-collection-of-24-hypnotizing-meditation-gifs/?ref=5924
 
 ## displacementmap memo
-* http://baku89.com/list/disp-effects-artists
+* http://baku89.com/list/disp-effects-artists ディスプレースメント
+* http://www.osadagenki.com/glitch-art/　グリッチ
+
