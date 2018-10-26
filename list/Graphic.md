@@ -31,6 +31,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* http://www.kusano-design.com/
 * http://www.semitransparentdesign.com/ semitra
 * https://minatabei.com/ tabei mina
 * https://www.md-k.net/ midori kawano
