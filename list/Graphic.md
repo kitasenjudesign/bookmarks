@@ -49,6 +49,7 @@
 * http://hirokahasegawa.com/ web
 * https://mr-design.jp/
 * http://gooddesigncompany.com/
+* http://nkjm-d-blog.tumblr.com/ nakajima hideki
 * https://www.tsdo.jp/
 * https://sun-ad.co.jp/
 
