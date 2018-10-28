@@ -31,6 +31,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* https://studyllc.tokyo/ study
 * http://www.kusano-design.com/
 * http://www.semitransparentdesign.com/ semitra
 * https://minatabei.com/ tabei mina
