@@ -74,6 +74,7 @@
 * http://makiopolis.com/codevember/ 人が歩いてます。
 
 ## アカデミック系
+* https://github.com/mattdesl/workshop-generative-art
 * http://callumprentice.github.io/ _ 飛行機とか
 * http://philogb.github.io/ _ フラクタルがやばい
 * http://moebio.com/portfolio/
