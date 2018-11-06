@@ -36,7 +36,7 @@
 * http://mariuswatz.com/category/works/
 * http://www.onformative.com/lab/
 * http://www.uncontrol.com/
-* http://www.clicktorelease.com/
+* http://www.clicktorelease.com/ _ polygon-shredder
 * http://bartekdrozdz.com/
 * http://www.inear.se/
 * http://www.quayola.com/ __絵画をドロネー
