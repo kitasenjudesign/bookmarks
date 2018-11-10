@@ -57,6 +57,7 @@
 * http://new.marpi.pl/ _ github のビジュアライザ
 * http://minmax.design/ generative machineを作った人
 * http://mattdesl.com/ wireframeのやつ。
+* https://generated.space/ _ pixel sortingがおもろい
 
 ## ライト系
 * https://www.aristidebenoist.com/ _ スペイン
