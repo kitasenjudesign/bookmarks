@@ -32,6 +32,7 @@
 * http://www.michaelpaulyoung.com/ 
 
 # Japanese
+* https://www.6d-k.com/ 6D
 * https://studyllc.tokyo/ study
 * http://www.kusano-design.com/
 * http://www.semitransparentdesign.com/ semitra
