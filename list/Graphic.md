@@ -22,6 +22,7 @@
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
 * http://sagmeisterwalsh.com/ _ さぐまいすた
+* https://www.pentagram.com/ - pentagram
 * http://mainstudio.com/ _ おしゃれ
 * http://www.studiofnt.com/
 * http://non-format.com/
