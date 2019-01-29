@@ -3,13 +3,14 @@
 
 
 # Asia
+* https://ordinarypeople.kr/ kr
 * http://www.alonglongtime.me/
 * http://www.gd-morning.org/jim
 * http://wangzhihong.com/
 * http://www.studiofnt.com/
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
-* http://www.oniondesign.com.tw/
+* http://www.oniondesign.com.tw/ tw
 * https://u-d-l.com/
 * https://www.behance.net/another-lab/
 * http://aaronnieh.tumblr.com/
