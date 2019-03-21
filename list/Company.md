@@ -23,3 +23,7 @@
 * http://ff0000.com/
 * https://tendril.ca/ かわいい
 
+## 日本のモーショングラフィックの会社
+* http://www.edp.jp/
+* http://alld.jp) alld.jp
+* https://www.likiinc.com
