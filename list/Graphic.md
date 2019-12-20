@@ -70,4 +70,18 @@
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
 
+# IDEA
+* http://davidrudnick.org/
+* http://www.jonathancastro.pe
+* http://yutakawaguchi.com/
+* http://obbyxjappari.tumblr.com
+* http://instagram.com/ignorance1
+* http://whose.agency
+* http://sexed-realiti.es
+
+* http://hallointer.net
+* http://knoth-renner.com
+
+
+
 
