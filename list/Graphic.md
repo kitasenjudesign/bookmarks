@@ -64,6 +64,7 @@
 * http://www.tezzosuzuki.com/
 * http://oharadaijiro.com/
 * http://dainippon.type.org/ 
+* http://mieno-ryu.com/wp/
 
 # Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
