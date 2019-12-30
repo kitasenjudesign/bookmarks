@@ -30,10 +30,17 @@
 * http://www.theroyalstudio.com/
 * https://www.behance.net/wearegolden _ golden
 * https://www.eps51.com/
-* https://www.mmparis.com/
 * http://www.michaelpaulyoung.com/ 
 
+# fr
+* http://apeloig.com/
+* https://www.mmparis.com/
+* http://www.leslie-david.com/
+* https://helmo.fr/
+
+
 # Japanese
+
 * https://www.6d-k.com/ 6D
 * https://studyllc.tokyo/ study
 * http://www.kusano-design.com/
@@ -58,6 +65,8 @@
 * http://nkjm-d-blog.tumblr.com/ nakajima hideki
 * https://www.tsdo.jp/
 * https://sun-ad.co.jp/
+
+
 
 # Japanese (Typo)
 * http://sasakishun.tumblr.com/
