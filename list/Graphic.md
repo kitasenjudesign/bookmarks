@@ -3,6 +3,8 @@
 
 
 # Asia
+
+* http://www.ablackcover.com/
 * https://transwhite.cn/
 * https://ordinarypeople.kr/ kr
 * http://www.alonglongtime.me/
