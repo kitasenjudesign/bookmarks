@@ -3,7 +3,7 @@
 
 
 # Asia
-
+* https://tinganho.info/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
 * https://ordinarypeople.kr/ kr
@@ -25,7 +25,7 @@
 * http://www.johnwarwicker.com/ _ johnwarwicker
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
-* http://sagmeisterwalsh.com/ _ さぐまいすた
+* http://sagmeisterwalsh.com/
 * https://www.pentagram.com/ - pentagram
 * http://mainstudio.com/ _ おしゃれ
 * http://www.studiofnt.com/
@@ -83,7 +83,7 @@
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
 
-# IDEA
+# IDEAにのってたメモ
 * http://davidrudnick.org/
 * http://www.jonathancastro.pe
 * http://yutakawaguchi.com/
