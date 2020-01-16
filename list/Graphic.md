@@ -3,6 +3,8 @@
 
 
 # Asia
+* https://nomocreative.com/
+* https://www.r2design.pt/
 * https://tinganho.info/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
