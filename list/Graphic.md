@@ -3,6 +3,9 @@
 
 
 # Asia
+
+* http://www.by702.com/
+* https://guang-yu.net/
 * https://nomocreative.com/
 * https://www.r2design.pt/
 * https://tinganho.info/
