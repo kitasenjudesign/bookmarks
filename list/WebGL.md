@@ -2,6 +2,7 @@
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
 ## シェーダーの鬼
+* http://sirokos.com/
 * https://www.instagram.com/zach.lieberman/ 引き出しが多すぎる・・
 * http://www.kynd.info/log/ _ kynd シェーダーの神
 * http://ezramiller.biz/ _ シェーダーやばい系
@@ -59,7 +60,7 @@
 * http://mattdesl.com/ wireframeのやつ。
 * https://generated.space/ _ pixel sortingがおもろい
 
-## ライト系
+## デザイン系
 * https://www.aristidebenoist.com/ _ スペイン
 * http://generative.systems/ _ gene
 * http://brunoimbrizi.com/experiments/ _ 地下鉄とか
