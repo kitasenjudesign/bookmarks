@@ -3,6 +3,10 @@
 
 
 # Asia
+* http://www.gd-morning.org/jim
+* http://kimyeonhee.com/
+* https://studiofnt.com/
+* http://Yaxuhan.com
 * http://www.another-lab.com/
 * http://www.by702.com/
 * https://guang-yu.net/
@@ -88,7 +92,7 @@
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
 
-# IDEAにのってたメモ
+# IDEAにのってたやつ
 * http://davidrudnick.org/
 * http://www.jonathancastro.pe
 * http://yutakawaguchi.com/
