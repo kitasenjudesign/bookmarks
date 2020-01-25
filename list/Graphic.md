@@ -10,7 +10,7 @@
 * http://www.another-lab.com/
 * http://www.by702.com/
 * https://guang-yu.net/
-* https://nomocreative.com/
+* https://nomocreative.com/ | 台湾
 * https://www.r2design.pt/
 * https://tinganho.info/
 * http://www.ablackcover.com/
