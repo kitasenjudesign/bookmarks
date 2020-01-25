@@ -3,8 +3,8 @@
 
 
 # Asia
-* http://www.gd-morning.org/jim
-* http://kimyeonhee.com/
+* http://www.gd-morning.org/jim | 香港
+* http://kimyeonhee.com/ | 
 * https://studiofnt.com/
 * http://Yaxuhan.com
 * http://www.another-lab.com/
