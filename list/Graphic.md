@@ -54,6 +54,7 @@
 
 # Japanese
 
+* http://ad-and-d.jp/
 * https://www.6d-k.com/ 6D
 * https://studyllc.tokyo/ study
 * http://www.kusano-design.com/
