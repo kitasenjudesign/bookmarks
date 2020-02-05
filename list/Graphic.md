@@ -3,6 +3,7 @@
 
 
 # Asia
+* https://jho.kr/ | https://www.itsnicethat.com/articles/jaeho-shin-polyhedric-sculptures-typojianchi-graphic-design-040220
 * http://www.gd-morning.org/jim | 香港
 * http://kimyeonhee.com/ | 
 * https://studiofnt.com/
