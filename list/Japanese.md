@@ -46,12 +46,20 @@
 * http://gam0022.net/
 
 
-## Kaisya
+## エグザイル
 
 * https://homunculus.jp/
 * https://garden-eight.com/
+* https://www.shiftbrain.com/
+
+
+## 都会的 前衛的
+
+* https://neuf.studio/
+* http://www.semitransparentdesign.com/
+
 
 ## 天才
-https://twitter.com/inaniwa3
+* https://twitter.com/inaniwa3
 
 
