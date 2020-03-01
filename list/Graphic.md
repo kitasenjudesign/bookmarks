@@ -47,6 +47,7 @@
 * http://www.michaelpaulyoung.com/ 
 * https://cecile-roger.com/ _ かっこいい
 * http://sagmeister.com/
+* http://sailey.work/ かっこいい
 
 # fr
 * http://apeloig.com/
