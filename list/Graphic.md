@@ -87,7 +87,7 @@
 
 
 
-# Japanese (Typo)
+# Japanese (Typography)
 * http://sasakishun.tumblr.com/
 * http://www.tezzosuzuki.com/
 * http://oharadaijiro.com/
