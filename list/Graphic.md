@@ -8,11 +8,11 @@
 * https://ba-ton.kr/ | korea
 * https://o-o-h.net/ | korea
 * http://www.serayong.com/index.html | korea
-* http://yhsong.com/ web mo
+* http://yhsong.com/ | korea web mo
 * https://jho.kr/ | https://www.itsnicethat.com/articles/jaeho-shin-polyhedric-sculptures-typojianchi-graphic-design-040220
 * http://www.gd-morning.org/jim | 香港
 * http://kimyeonhee.com/ | 
-* https://studiofnt.com/
+* https://studiofnt.com/ | korea
 * http://Yaxuhan.com
 * http://www.another-lab.com/
 * http://www.by702.com/
@@ -38,7 +38,7 @@
 # Other than Asia
 * http://lindhorst-emme.de/ 
 * https://erikcarter.net/
-* https://baotnguyen.com/projects _ スパイダーマン
+* https://baotnguyen.com/projects _ 
 * http://www.johnwarwicker.com/ _ johnwarwicker
 * http://unfun.de/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
