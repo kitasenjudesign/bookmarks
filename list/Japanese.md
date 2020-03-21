@@ -5,6 +5,7 @@
 
 ## Webgl
 
+* https://oregl.ukon.dev/
 * http://kaoterada.com/#Wwork02 
 * https://gmork.in/ _ amagi
 * http://blackout-sketch.com/
@@ -46,20 +47,13 @@
 * http://gam0022.net/
 
 
-## エグザイル
-
-* https://homunculus.jp/
-* https://garden-eight.com/
-* https://www.shiftbrain.com/
-
-
 ## 都会的 前衛的
 
 * https://neuf.studio/
 * http://www.semitransparentdesign.com/
-http://shunyahagiwara.com/#/works
+* http://shunyahagiwara.com/#/works
 
-## 天才
+## 
 * https://twitter.com/inaniwa3
 
 
