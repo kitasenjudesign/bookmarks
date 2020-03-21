@@ -42,18 +42,17 @@
 * http://qubibi.org/
 * https://saqoo.sh/a/
 
-## Gachi
-* https://twitter.com/mike_at_cg _ 超日曜プログラマー
+## hoka
+* https://twitter.com/mike_at_cg 
 * http://gam0022.net/
+* https://twitter.com/inaniwa3
 
 
-## 都会的 前衛的
+## kaisha
 
 * https://neuf.studio/
 * http://www.semitransparentdesign.com/
 * http://shunyahagiwara.com/#/works
 
-## 
-* https://twitter.com/inaniwa3
 
 
