@@ -36,7 +36,8 @@
 * http://foreignpolicy.design/
 
 # Other than Asia
-https://www.schultzschultz.com/ 最高
+* http://davidbenski.com/ | 
+* https://www.schultzschultz.com/ 最高
 * http://lindhorst-emme.de/ 
 * https://erikcarter.net/
 * https://baotnguyen.com/projects _ 
