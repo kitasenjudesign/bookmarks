@@ -36,6 +36,7 @@
 * http://foreignpolicy.design/
 
 # Other than Asia
+* https://www.therodina.com/
 * http://davidbenski.com/ | 
 * https://www.schultzschultz.com/ 最高
 * http://lindhorst-emme.de/ 
