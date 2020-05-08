@@ -66,6 +66,7 @@
 
 
 # Japanese
+* http://groovisions.com/
 * https://gcp.design/
 * https://www.labor-atories.com/
 * http://ad-and-d.jp/
