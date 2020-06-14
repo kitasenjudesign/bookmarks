@@ -3,10 +3,11 @@
 ## 会社
 
 ### suki
+* https://intmagic.com/
 * https://rndr.studio/
 * https://trauminc.com/
 * https://studiomoniker.com/ すきアムステルダム
-* https://www.netro.cc/ 大好き
+* https://www.netro.cc/ 好き
 * http://kinetic.com.sg/main.html 好き
 * http://wefail.com/ suki
 
