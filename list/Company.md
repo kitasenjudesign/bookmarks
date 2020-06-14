@@ -3,6 +3,7 @@
 ## 会社
 
 ### suki
+* https://trauminc.com/
 * https://studiomoniker.com/ すきアムステルダム
 * https://www.netro.cc/ 大好き
 * http://kinetic.com.sg/main.html 好き
