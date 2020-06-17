@@ -7,6 +7,7 @@
 * https://rndr.studio/
 * https://trauminc.com/
 * https://studiomoniker.com/ すきアムステルダム
+* https://puckey.studio/
 * https://www.netro.cc/ 好き
 * http://kinetic.com.sg/main.html 好き
 * http://wefail.com/ suki
