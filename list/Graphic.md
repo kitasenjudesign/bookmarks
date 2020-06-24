@@ -3,6 +3,7 @@
 
 
 # Southeast Asia
+* http://www.press-room.kr/ kr
 * https://ordinarypeople.kr/ kr
 * http://untitledmacao.com/ | makao
 * https://helloinah.github.io/ | korea
