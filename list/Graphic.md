@@ -29,7 +29,6 @@
 
 * http://www.another-lab.com/ ch
 * https://www.behance.net/another-lab/ ch
-
 * http://untitledmacao.com/ | makao
 * http://www.gd-morning.org/jim | 香港
 * http://kimyeonhee.com/ | 
@@ -45,6 +44,7 @@
 * http://acstdesign.asia/
 * https://u-d-l.com/
 * http://foreignpolicy.design/
+
 
 # Other than Asia
 * https://www.schultzschultz.com/
