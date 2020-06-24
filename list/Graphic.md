@@ -21,6 +21,7 @@
 * https://nomocreative.com/ | 台湾
 * http://www.oniondesign.com.tw/ tw
 * http://aaronnieh.tumblr.com/ aaron
+* http://wangzhihong.com/
 
 ### kr igai
 
@@ -37,7 +38,6 @@
 * https://transwhite.cn/
 * http://www.alonglongtime.me/
 * http://www.gd-morning.org/jim
-* http://wangzhihong.com/
 * http://www.studiofnt.com/
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
