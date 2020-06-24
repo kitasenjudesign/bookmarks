@@ -38,7 +38,7 @@
 * https://www.r2design.pt/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
-* http://www.alonglongtime.me/
+* http://www.alonglongtime.me/ 香港
 * http://www.gd-morning.org/jim
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
