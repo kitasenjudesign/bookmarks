@@ -23,18 +23,20 @@
 * http://www.oniondesign.com.tw/ tw
 * http://aaronnieh.tumblr.com/ aaron
 * http://wangzhihong.com/
+* https://tinganho.info/
 
-### kr igai
+### ch
+
+* http://www.another-lab.com/ ch
+* https://www.behance.net/another-lab/ ch
 
 * http://untitledmacao.com/ | makao
 * http://www.gd-morning.org/jim | 香港
 * http://kimyeonhee.com/ | 
 * http://Yaxuhan.com
-* http://www.another-lab.com/
 * http://www.by702.com/
-* https://guang-yu.net/
+* https://guang-yu.net/ ch
 * https://www.r2design.pt/
-* https://tinganho.info/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
 * http://www.alonglongtime.me/
@@ -42,7 +44,6 @@
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
 * https://u-d-l.com/
-* https://www.behance.net/another-lab/
 * http://foreignpolicy.design/
 
 # Other than Asia
