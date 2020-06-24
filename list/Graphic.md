@@ -16,6 +16,7 @@
 * http://www.serayong.com/index.html | korea
 * https://ordinarypeople.kr/ kr
 * http://yhsong.com/ | korea web mo
+* http://www.studiofnt.com/
 
 ### tw
 * https://nomocreative.com/ | 台湾
@@ -38,7 +39,6 @@
 * https://transwhite.cn/
 * http://www.alonglongtime.me/
 * http://www.gd-morning.org/jim
-* http://www.studiofnt.com/
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
 * https://u-d-l.com/
