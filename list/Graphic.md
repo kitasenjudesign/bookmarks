@@ -19,7 +19,7 @@
 
 ### tw
 * https://nomocreative.com/ | 台湾
-* 
+* http://www.oniondesign.com.tw/ tw
 
 ### kr igai
 
@@ -40,7 +40,6 @@
 * http://www.studiofnt.com/
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
-* http://www.oniondesign.com.tw/ tw
 * https://u-d-l.com/
 * https://www.behance.net/another-lab/
 * http://aaronnieh.tumblr.com/
