@@ -42,7 +42,7 @@
 * https://guang-yu.net/ ch
 * http://www.ablackcover.com/
 * https://transwhite.cn/
-* http://www.gd-morning.org/jim　香港
+* http://www.gd-morning.org/jim | 香港
 * http://www.liaoweigraphic.com/
 
 
@@ -79,20 +79,19 @@
 * https://www.tsdo.jp/
 * https://sun-ad.co.jp/
 * http://hirokahasegawa.com/
-
-
-# Japan (Typography)
 * http://sasakishun.tumblr.com/
 * http://www.tezzosuzuki.com/
 * http://oharadaijiro.com/
 * http://dainippon.type.org/ 
 * http://mieno-ryu.com/wp/
 
+
 # Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
-
+* https://www.instagram.com/grafikfeed
+* 
 
 
 
