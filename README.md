@@ -6,7 +6,6 @@
 * [Graphic Asia](https://github.com/kitasenjudesign/bookmarks/blob/master/list/GraphicAsia.md)
 * [Illust](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Illust.md)
 * [Production](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Company.md)
-* [Unity](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Unity.md)
 * [Motion](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Motion.md)
 * [AlternativeWebDesign](https://github.com/kitasenjudesign/bookmarks/blob/master/list/AlternativeWebDesign.md)
 * [Reference](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Reference.md)
