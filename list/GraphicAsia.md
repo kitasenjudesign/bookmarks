@@ -46,7 +46,7 @@
 
 ### Sg
 * http://foreignpolicy.design/
-
+* http://www.dariusou.work/
 
 ### Ja
 
