@@ -1,7 +1,7 @@
 # creator / production bookmarks
 
 * [WebGL, CreativeCorder](https://github.com/kitasenjudesign/bookmarks/blob/master/list/WebGL.md)
-* [Japanese](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Japanese.md)
+* [Japanese coder](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Japanese.md)
 * [Graphic](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Graphic.md)
 * [Graphic Asia](https://github.com/kitasenjudesign/bookmarks/blob/master/list/GraphicAsia.md)
 * [Illust](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Illust.md)
