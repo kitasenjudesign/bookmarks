@@ -86,6 +86,7 @@
 * http://dainippon.type.org/ 
 * http://mieno-ryu.com/wp/
 * http://asyl.co.jp/
+* http://yutakawaguchi.com/
 
 # Matome site
 
