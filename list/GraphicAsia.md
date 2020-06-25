@@ -49,7 +49,7 @@
 * http://www.dariusou.work/
 * https://www.thankyoudeliveryheroes.com/ kinetic
 
-### Ja
+### Jp
 
 * http://www.sarubrunei.com/
 * http://groovisions.com/
