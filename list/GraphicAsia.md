@@ -28,18 +28,18 @@
 * https://tinganho.info/
 * http://acstdesign.asia/
 
-### ch
+### cn
 
-* http://www.another-lab.com/ ch
-* https://www.behance.net/another-lab/ ch
+* http://www.another-lab.com/ cn
+* https://www.behance.net/another-lab/ cn
 * https://u-d-l.com/ 北京
-* http://untitledmacao.com/ | makao
+* http://untitledmacao.com/ | まかお
 * http://www.gd-morning.org/jim | 香港
 * http://www.alonglongtime.me/ 香港
 * http://kimyeonhee.com/ | 
 * http://Yaxuhan.com
 * http://www.by702.com/
-* https://guang-yu.net/ ch
+* https://guang-yu.net/ cn
 * http://www.ablackcover.com/
 * https://transwhite.cn/
 * http://www.gd-morning.org/jim | 香港
