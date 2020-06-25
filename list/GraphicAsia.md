@@ -12,7 +12,8 @@
 * https://helloinah.github.io/ | korea
 * https://ba-ton.kr/ | korea
 * https://o-o-h.net/ | korea
-* https://jho.kr/ | https://www.itsnicethat.com/articles/jaeho-shin-polyhedric-sculptures-typojianchi-graphic-design-040220
+* https://jho.kr/
+* https://www.itsnicethat.com/articles/jaeho-shin-polyhedric-sculptures-typojianchi-graphic-design-040220
 * https://studiofnt.com/ | korea
 * http://www.serayong.com/index.html | korea
 * https://ordinarypeople.kr/ kr
