@@ -30,7 +30,6 @@
 ### cn
 
 * http://www.another-lab.com/ cn
-* https://www.behance.net/another-lab/ cn
 * https://u-d-l.com/ 北京
 * http://untitledmacao.com/ | まかお
 * http://www.gd-morning.org/jim | 香港
@@ -49,7 +48,7 @@
 * http://foreignpolicy.design/
 
 
-### Japan
+### Ja
 
 * http://www.sarubrunei.com/
 * http://groovisions.com/
@@ -86,7 +85,8 @@
 * http://mieno-ryu.com/wp/
 * http://asyl.co.jp/
 
-# Matome
+# Matome site
+
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
