@@ -91,7 +91,8 @@
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
 * https://www.instagram.com/grafikfeed
-* 
+* https://a-g-i.org/
+* https://www.itsnicethat.com/ Its nice that
 
 
 
