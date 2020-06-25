@@ -17,7 +17,7 @@
 * https://studiofnt.com/ | korea
 * http://www.serayong.com/index.html | korea
 * https://ordinarypeople.kr/ kr
-* http://yhsong.com/ | korea web mo
+* http://yhsong.com/ | kr
 * http://www.studiofnt.com/
 
 ### tw
