@@ -7,11 +7,11 @@
 
 ### kr
 
-* http://www.press-room.kr/ kr
-* https://ordinarypeople.kr/ kr
-* https://helloinah.github.io/ | korea
-* https://ba-ton.kr/ | korea
-* https://o-o-h.net/ | korea
+* http://www.press-room.kr/
+* https://ordinarypeople.kr/
+* https://helloinah.github.io/
+* https://ba-ton.kr/
+* https://o-o-h.net/
 * https://jho.kr/
 * https://www.itsnicethat.com/articles/jaeho-shin-polyhedric-sculptures-typojianchi-graphic-design-040220
 * https://studiofnt.com/ | korea
