@@ -45,7 +45,7 @@
 * http://www.liaoweigraphic.com/
 
 
-### Singapore
+### Sg
 * http://foreignpolicy.design/
 
 
