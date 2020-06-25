@@ -27,7 +27,6 @@ matome chu
 * https://baotnguyen.com/projects _ 
 * https://www.pentagram.com/ - pentagram
 * http://mainstudio.com/ _ おしゃれ
-* http://www.studiofnt.com/
 * http://non-format.com/
 * http://www.theroyalstudio.com/
 * https://www.behance.net/wearegolden _ golden
