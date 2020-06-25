@@ -84,7 +84,7 @@
 * http://oharadaijiro.com/
 * http://dainippon.type.org/ 
 * http://mieno-ryu.com/wp/
-
+* http://asyl.co.jp/
 
 # Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
