@@ -55,8 +55,8 @@
 * https://gcp.design/
 * https://www.labor-atories.com/
 * http://ad-and-d.jp/
-* https://www.6d-k.com/ 6D
-* https://studyllc.tokyo/ study
+* https://www.6d-k.com/
+* https://studyllc.tokyo/
 * http://www.kusano-design.com/
 * http://www.semitransparentdesign.com/
 * https://minatabei.com/
