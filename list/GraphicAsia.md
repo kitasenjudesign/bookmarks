@@ -60,12 +60,12 @@
 * https://studyllc.tokyo/ study
 * http://www.kusano-design.com/
 * http://www.semitransparentdesign.com/
-* https://minatabei.com/ tabei mina
-* https://www.md-k.net/ midori kawano
+* https://minatabei.com/
+* https://www.md-k.net/
 * http://www.yoshirotten.com/ 
 * http://kashiwasato.com/
 * http://www.nakamuranorio.com/ 
-* http://www.masakihanahara.com/ _ shiseido
+* http://www.masakihanahara.com/
 * http://www.allrightgraphics.com/
 * http://www.yuni-yoshida.com/
 * http://www.ki-gi.com/
