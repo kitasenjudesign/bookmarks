@@ -31,6 +31,7 @@
 * https://www.behance.net/another-lab/ ch
 * http://untitledmacao.com/ | makao
 * http://www.gd-morning.org/jim | 香港
+* http://www.alonglongtime.me/ 香港
 * http://kimyeonhee.com/ | 
 * http://Yaxuhan.com
 * http://www.by702.com/
@@ -38,11 +39,13 @@
 * https://www.r2design.pt/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
-* http://www.alonglongtime.me/ 香港
 * http://www.gd-morning.org/jim
 * http://www.liaoweigraphic.com/
 * http://acstdesign.asia/
 * https://u-d-l.com/
+
+
+### Singapore
 * http://foreignpolicy.design/
 
 
