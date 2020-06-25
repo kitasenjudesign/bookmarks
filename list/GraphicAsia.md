@@ -59,11 +59,10 @@
 * https://www.6d-k.com/ 6D
 * https://studyllc.tokyo/ study
 * http://www.kusano-design.com/
-* http://www.semitransparentdesign.com/ semitra
+* http://www.semitransparentdesign.com/
 * https://minatabei.com/ tabei mina
 * https://www.md-k.net/ midori kawano
 * http://www.yoshirotten.com/ 
-* https://twitter.com/makiju _ maki jujiro
 * http://kashiwasato.com/
 * http://www.nakamuranorio.com/ 
 * http://www.masakihanahara.com/ _ shiseido
@@ -74,12 +73,13 @@
 * http://rikako-nagashima.com/
 * http://www.emuni.co.jp/ m2
 * http://nnnny.jp/ 
-* http://hirokahasegawa.com/ web
 * https://mr-design.jp/
 * http://gooddesigncompany.com/
 * http://nkjm-d-blog.tumblr.com/ nakajima hideki
 * https://www.tsdo.jp/
 * https://sun-ad.co.jp/
+* http://hirokahasegawa.com/
+
 
 # Japan (Typography)
 * http://sasakishun.tumblr.com/
