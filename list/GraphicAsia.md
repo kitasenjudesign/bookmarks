@@ -47,6 +47,7 @@
 ### Sg
 * http://foreignpolicy.design/
 * http://www.dariusou.work/
+* https://www.thankyoudeliveryheroes.com/ kinetic
 
 ### Ja
 
