@@ -41,7 +41,7 @@
 * https://www.r2design.pt/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
-* http://www.gd-morning.org/jim
+* http://www.gd-morning.org/jim　香港
 * http://www.liaoweigraphic.com/
 
 
