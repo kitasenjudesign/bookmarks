@@ -24,6 +24,7 @@
 * http://aaronnieh.tumblr.com/ aaron
 * http://wangzhihong.com/
 * https://tinganho.info/
+* http://acstdesign.asia/
 
 ### ch
 
@@ -42,7 +43,6 @@
 * https://transwhite.cn/
 * http://www.gd-morning.org/jim
 * http://www.liaoweigraphic.com/
-* http://acstdesign.asia/
 
 
 ### Singapore
