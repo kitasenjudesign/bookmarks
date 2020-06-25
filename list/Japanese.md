@@ -1,7 +1,7 @@
 
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
-# japanese developer
+# japanese 
 
 ## Webgl
 
@@ -48,11 +48,6 @@
 * https://twitter.com/inaniwa3
 
 
-## kaisha
-
-* https://neuf.studio/
-* http://www.semitransparentdesign.com/
-* http://shunyahagiwara.com/#/works
 
 
 
