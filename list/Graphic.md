@@ -38,7 +38,6 @@
 * http://Yaxuhan.com
 * http://www.by702.com/
 * https://guang-yu.net/ ch
-* https://www.r2design.pt/
 * http://www.ablackcover.com/
 * https://transwhite.cn/
 * http://www.gd-morning.org/jim　香港
@@ -50,6 +49,8 @@
 
 
 # Other than Asia
+
+* https://www.r2design.pt/
 * https://www.schultzschultz.com/
 * https://www.therodina.com/
 * http://davidbenski.com/ | 
