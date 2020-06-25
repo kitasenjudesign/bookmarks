@@ -10,9 +10,6 @@
 * https://twitter.com/kaiware007
 * https://twitter.com/sakope
 * https://twitter.com/kodai100_tw
-
-## 他
-* http://github.com/keijiro/
 * https://twitter.com/setchi _ setchi
 * http://leon196.github.io/　
 
