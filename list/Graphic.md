@@ -6,47 +6,53 @@ matome chu
 
 * http://www.ok-rm.co.uk/
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
-
+* http://www.johnwarwicker.com/ _ johnwarwicker
+* http://sailey.work/ かっこいい
 
 ## de
 
+* http://davidbenski.com/ 
 * https://www.schultzschultz.com/ 最高
 * http://lindhorst-emme.de/ 
 * http://unfun.de/
+* https://www.eps51.com/
 
-# pt
+## pt
 
 * https://www.r2design.pt/
-* https://www.therodina.com/
-* http://davidbenski.com/ 
-* https://erikcarter.net/
+
+## 不明
+
+* https://www.therodina.com/　よい
 * https://baotnguyen.com/projects _ 
-* http://www.johnwarwicker.com/ _ johnwarwicker
 * https://www.pentagram.com/ - pentagram
 * http://mainstudio.com/ _ おしゃれ
 * http://www.studiofnt.com/
 * http://non-format.com/
 * http://www.theroyalstudio.com/
 * https://www.behance.net/wearegolden _ golden
-* https://www.eps51.com/
 * http://www.michaelpaulyoung.com/ 
-* https://cecile-roger.com/ _ かっこいい
-* http://sailey.work/ かっこいい
 
-# fr
+## ch _ swiss
+
+* https://cecile-roger.com/ _ かっこいい
+
+## fr
+
 * https://www.mmparis.com/
 * http://www.leslie-david.com/
 * https://helmo.fr/
 * http://apeloig.com/
 
-# au
+## au
 * https://thecolourclub.com.au/
 
-# us
+## us
 * http://sagmeister.com/
 * http://sagmeisterwalsh.com/
+* https://erikcarter.net/
 
-# Matome
+## Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
