@@ -24,12 +24,11 @@ matome chu
 ## nl オランダ
 
 * https://www.therodina.com/ | よい
-
+* http://mainstudio.com/ _ サイトおしゃれ
 
 ## 不明
 
 * https://baotnguyen.com/projects _ 
-* http://mainstudio.com/ _ おしゃれ
 * http://non-format.com/
 * http://www.theroyalstudio.com/
 * https://www.behance.net/wearegolden _ golden
