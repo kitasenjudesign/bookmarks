@@ -21,11 +21,14 @@ matome chu
 
 * https://www.r2design.pt/
 
+## nl オランダ
+
+* https://www.therodina.com/ | よい
+
+
 ## 不明
 
-* https://www.therodina.com/　よい
 * https://baotnguyen.com/projects _ 
-* https://www.pentagram.com/ - pentagram
 * http://mainstudio.com/ _ おしゃれ
 * http://non-format.com/
 * http://www.theroyalstudio.com/
@@ -50,6 +53,7 @@ matome chu
 * http://sagmeister.com/
 * http://sagmeisterwalsh.com/
 * https://erikcarter.net/
+* https://www.pentagram.com/ - pentagram
 
 ## Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
