@@ -18,6 +18,7 @@
 * http://hki.paris _ hello hikimori
 
 ### hoka
+* https://ndcosd.jp/
 * https://www.makemepulse.com/
 * http://www.jam3.com/
 * http://rgb.nu/
