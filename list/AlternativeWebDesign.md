@@ -18,6 +18,7 @@
 * http://www.semitransparentdesign.com/ 
 * http://shunyahagiwara.com/
 * http://www.e-k.fr/
+* https://ezekielaquino.com/
 
 ## AlternativeWebDesign Bookmarks
 
