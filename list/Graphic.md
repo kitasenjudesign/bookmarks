@@ -73,8 +73,6 @@ matome chu
 * http://instagram.com/ignorance1
 * http://whose.agency
 * http://sexed-realiti.es
-* http://davidliebermann.de
-* http://hallointer.net
 * http://knoth-renner.com
 * http://florianerousselot.com/
 * http://basilefournier.com/
