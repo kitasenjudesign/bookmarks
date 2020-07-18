@@ -7,19 +7,13 @@
 * https://janareddemann.de/
 * http://yhsong.com/
 * http://carlosmayo.info/
-* http://iamziek.com/ いいかんじ
-* http://www.seanroyparker.com/ ふにゃふにゃの線
-
-## AlternativeWebDesign
-
-* https://mcachicago.org/ _ シカゴ
-* http://www.museumstudio.se/ 画像の重なり
-* https://littlefragments.com ななめ
-
+* http://iamziek.com/ 
+* http://www.seanroyparker.com/ 
+* https://littlefragments.com 
 
 ## japan
 
-* http://www.semitransparentdesign.com/ semitra
+* http://www.semitransparentdesign.com/ 
 * http://shunyahagiwara.com/
 
 ## AlternativeWebDesign Bookmarks
