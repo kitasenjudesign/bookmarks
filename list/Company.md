@@ -27,7 +27,8 @@
 * http://www.universaleverything.com/  
 * http://www.goodboydigital.com/
 * http://ff0000.com/
-* https://tendril.ca/ かわいい
+* https://tendril.ca/
+* https://www.new.company/
 
 ## 日本のモーショングラフィックの会社
 * http://www.edp.jp/
