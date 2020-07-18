@@ -11,6 +11,8 @@
 * http://www.seanroyparker.com/ 
 * https://littlefragments.com 
 * https://www.okok.services/
+* https://ermolaeva.co/
+* https://josemeza.info/
 
 ## japan
 
@@ -18,5 +20,6 @@
 * http://shunyahagiwara.com/
 
 ## AlternativeWebDesign Bookmarks
+
 * https://hoverstat.es/
 * http://hallointer.net/
