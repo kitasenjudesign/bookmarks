@@ -2,6 +2,7 @@
 
 ## AlternativeWebDesigner
 
+* https://josephpleass.com/
 * http://davidliebermann.de
 * https://liebermannkiepereddemann.de/
 * https://janareddemann.de/
