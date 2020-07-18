@@ -15,9 +15,6 @@
 * https://ermolaeva.co/
 * https://josemeza.info/
 * https://www.namhuynh.de/
-
-## japan
-
 * http://www.semitransparentdesign.com/ 
 * http://shunyahagiwara.com/
 
