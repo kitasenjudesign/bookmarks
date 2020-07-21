@@ -24,6 +24,7 @@
 
 
 ## motion
+* https://kijekadamski.com/
 * http://sabrinaratte.com/ 
 * https://www.instagram.com/luigihonorat/ ルイジ　彫刻
 * https://twitter.com/Kim__Laughton エスカレーター
