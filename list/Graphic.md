@@ -9,7 +9,6 @@ matome chu
 * http://www.barnbrook.net/ _ ジョナサンバーンブルック
 * http://www.johnwarwicker.com/ _ johnwarwicker
 * http://sailey.work/ かっこいい
-* https://forum.unity.com/threads/arfoundation-post-processing-stack-tracking-drift.593872/
 * https://rickystoch.com/
 
 ## de
