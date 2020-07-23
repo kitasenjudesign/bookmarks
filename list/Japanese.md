@@ -45,9 +45,8 @@
 
 ## hoka
 * https://twitter.com/mike_at_cg 
-* http://gam0022.net/
 * https://twitter.com/inaniwa3
-
+* https://webgl.souhonzan.org/
 
 
 
