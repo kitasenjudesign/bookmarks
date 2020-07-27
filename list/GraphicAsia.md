@@ -86,6 +86,7 @@
 * http://mieno-ryu.com/wp/
 * http://asyl.co.jp/
 * http://yutakawaguchi.com/
+* http://makijujiro.com/
 
 # Matome site
 
