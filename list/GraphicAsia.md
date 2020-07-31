@@ -42,7 +42,7 @@
 * https://transwhite.cn/
 * http://www.gd-morning.org/jim | 香港
 * http://www.liaoweigraphic.com/
-
+* https://shao-nian.com/ | 上海
 
 ### Sg
 * http://foreignpolicy.design/
