@@ -61,6 +61,9 @@ matome chu
 * https://erikcarter.net/
 * https://www.pentagram.com/ - pentagram
 
+# chili
+http://www.alejandravalenzuela.com/
+
 ## Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
