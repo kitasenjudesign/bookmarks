@@ -2,6 +2,7 @@
 
 ## AlternativeWebDesigner
 
+* https://sergeyzakharov.dev/
 * http://stephdavidson.com/
 * https://josephpleass.com/
 * http://davidliebermann.de
