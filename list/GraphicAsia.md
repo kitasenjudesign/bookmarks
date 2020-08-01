@@ -51,6 +51,8 @@
 * https://www.thankyoudeliveryheroes.com/ kinetic
 
 ### Jp
+
+* https://www.akikosekimoto.com/
 * https://neuf.studio/
 * http://www.sarubrunei.com/
 * http://groovisions.com/
