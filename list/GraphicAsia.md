@@ -52,6 +52,7 @@
 
 ### Jp
 
+* http://www.deza-in.jp/ | wabisabi
 * https://www.akikosekimoto.com/
 * https://neuf.studio/
 * http://www.sarubrunei.com/
