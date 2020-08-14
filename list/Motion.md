@@ -1,6 +1,7 @@
 [index](https://github.com/kitasenjudesign/bookmarks/blob/master/README.md)
 
 ## 日本人
+* https://kotaiguchi.com/
 * http://www.saigono.info/ saigo
 * https://www.imoredy.com/ mizusiri
 * http://www.takafumitsuchiya.com/ _ takcom
