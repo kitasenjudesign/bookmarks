@@ -52,6 +52,7 @@
 
 ### Jp
 
+* https://tadashi-ueda.com/
 * https://shunsukesugiyama.com/
 * http://yutakawaguchi.com/
 * http://torukase.com/
