@@ -52,6 +52,7 @@
 
 ### Jp
 
+* http://torukase.com/
 * https://youngmanpeanuts.jp/
 * https://one-1-happy.com/
 * http://www.deza-in.jp/ | wabisabi
