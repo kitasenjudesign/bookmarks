@@ -52,6 +52,7 @@
 
 ### Jp
 
+* https://shunsukesugiyama.com/
 * http://yutakawaguchi.com/
 * http://torukase.com/
 * https://youngmanpeanuts.jp/
