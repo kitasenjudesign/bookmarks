@@ -62,7 +62,7 @@ matome chu
 * https://erikcarter.net/
 * https://www.pentagram.com/ - pentagram
 
-# chili
+## chili
 http://www.alejandravalenzuela.com/
 
 ## Matome
@@ -70,10 +70,9 @@ http://www.alejandravalenzuela.com/
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
 
-# IDEAにのってたやつ
+## IDEAにのってたやつ
 * http://davidrudnick.org/
 * http://www.jonathancastro.pe
-* http://yutakawaguchi.com/
 * http://obbyxjappari.tumblr.com
 * http://instagram.com/ignorance1
 * http://whose.agency
