@@ -52,6 +52,7 @@
 
 ### Jp
 
+* http://yutakawaguchi.com/
 * http://torukase.com/
 * https://youngmanpeanuts.jp/
 * https://one-1-happy.com/
@@ -96,6 +97,7 @@
 * http://makijujiro.com/
 
 # Matome site
+
 
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
 * https://www.typographicposters.com/ 
