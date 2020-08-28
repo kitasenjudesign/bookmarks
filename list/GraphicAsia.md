@@ -52,6 +52,7 @@
 
 ### Jp
 
+* https://www.kanedaryohei.com/
 * https://tadashi-ueda.com/
 * https://shunsukesugiyama.com/
 * http://yutakawaguchi.com/
@@ -85,7 +86,7 @@
 * http://nnnny.jp/ 
 * https://mr-design.jp/
 * http://gooddesigncompany.com/
-* http://nkjm-d-blog.tumblr.com/ nakajima hideki
+* http://nkjm-d-blog.tumblr.com/
 * https://www.tsdo.jp/
 * https://sun-ad.co.jp/
 * http://hirokahasegawa.com/
