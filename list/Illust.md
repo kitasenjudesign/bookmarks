@@ -1,4 +1,4 @@
-* ttps://cho-mo.com/
+* https://cho-mo.com/
 * http://www.ogawayutaro.com/
 * https://twitter.com/Jack_Sachs
 * https://grapinco.myportfolio.com/ grapinco
