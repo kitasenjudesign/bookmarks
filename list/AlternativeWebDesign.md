@@ -2,6 +2,7 @@
 
 ## AlternativeWebDesigner
 
+* https://maximiliankiepe.de/
 * https://matthiasdeckx.be/
 * https://sergeyzakharov.dev/
 * http://stephdavidson.com/
