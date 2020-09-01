@@ -17,7 +17,6 @@
 * https://littlefragments.com 
 * https://www.okok.services/
 * https://ermolaeva.co/
-* https://josemeza.info/
 * https://www.namhuynh.de/
 * http://www.semitransparentdesign.com/ 
 * http://shunyahagiwara.com/
