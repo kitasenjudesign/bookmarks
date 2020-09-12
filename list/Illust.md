@@ -1,3 +1,4 @@
+* https://www.instagram.com/samehoshi/
 * https://www.instagram.com/haruna_kawai/
 * https://cho-mo.com/
 * http://www.ogawayutaro.com/
