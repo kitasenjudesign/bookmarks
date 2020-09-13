@@ -47,8 +47,9 @@
 * http://www.davidoreilly.com/ david オライリー
 * https://www.instagram.com/michaelmarczewski/ _ MR 
 
+
 ## GIF loop
-* https://plus.google.com/+micaelreynaud LOOPすごい
+* http://dunun-koken.dunun.com/ loop
 * http://beesandbombs.tumblr.com/ gif アニの鬼
 * http://kengarex.com/a-collection-of-24-hypnotizing-meditation-gifs/?ref=5924
 
