@@ -4,6 +4,7 @@
 
 ### suki
 
+* http://www.new.company/
 * https://twomuch.studio/ saiko
 * https://intmagic.com/
 * https://rndr.studio/
