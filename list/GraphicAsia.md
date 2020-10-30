@@ -53,6 +53,7 @@
 
 ### Jp
 
+* https://seritanaka.com/
 * https://www.kanedaryohei.com/
 * https://tadashi-ueda.com/
 * https://shunsukesugiyama.com/
