@@ -52,6 +52,7 @@
 * https://www.thankyoudeliveryheroes.com/ kinetic
 
 ### Jp
+* https://takadayui.com/
 * https://www.garden-d.co.jp/
 * https://seritanaka.com/
 * https://www.kanedaryohei.com/
