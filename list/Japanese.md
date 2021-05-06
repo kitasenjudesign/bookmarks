@@ -7,12 +7,12 @@
 * https://mattatz.org/
 * https://oregl.ukon.dev/
 * http://kaoterada.com/#Wwork02 
-* https://gmork.in/ _ amagi
+* https://gmork.in/
 * http://blackout-sketch.com/
 * https://tkmh.me/
 * http://ikeryou.jp/
 * http://kenji-special.info/
-* http://www.yuichiroharai.com/wgl/ _ webgl
+* http://www.yuichiroharai.com/wgl/
 * https://murasaki-uma.github.io/webglvj_02/
 * http://su8erlemon.com/
 * http://ykob.github.io/sketch-threejs/
