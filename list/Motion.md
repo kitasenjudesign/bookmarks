@@ -25,8 +25,9 @@
 
 
 ## motion
+* https://builders-club.com/
 * https://www.bsfilms.me/ 切り絵が並んでるやつ
-* joehamilton.info
+* https://joehamilton.info
 * https://builders-club.com/
 * https://kijekadamski.com/
 * http://sabrinaratte.com/ 
