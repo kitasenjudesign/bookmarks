@@ -6,7 +6,6 @@
 * http://hallointer.net/ web
 * https://klikkentheke.com/ web
 * http://hoverstat.es web
-
 * https://tkmh.me/bookmarks/ hasegawa san bookmark
 * http://www.siteinspire.com/
 * http://www.pillowandpill.com/bmpp/
