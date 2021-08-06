@@ -7,6 +7,7 @@
 
 ### kr
 
+* https://ohezin.kr/
 * http://adearfriend.com/
 * http://www.shin-shin.kr/
 * http://www.press-room.kr/
