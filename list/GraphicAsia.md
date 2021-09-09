@@ -7,6 +7,7 @@
 
 ### kr
 
+* https://www.sulki-min.com/
 * http://gang.works/
 * https://ohezin.kr/
 * http://adearfriend.com/
