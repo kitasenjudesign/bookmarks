@@ -19,16 +19,16 @@
 * https://ba-ton.kr/
 * https://o-o-h.net/
 * https://jho.kr/ - [article](https://www.itsnicethat.com/articles/jaeho-shin-polyhedric-sculptures-typojianchi-graphic-design-040220)
-* https://studiofnt.com/ | korea
-* http://www.serayong.com/index.html | korea
-* https://ordinarypeople.kr/ kr
-* http://yhsong.com/ | kr
+* https://studiofnt.com/
+* http://www.serayong.com/index.html
+* https://ordinarypeople.kr/
+* http://yhsong.com/
 
 
 ### tw
-* https://nomocreative.com/ | 台湾
-* http://www.oniondesign.com.tw/ tw
-* http://aaronnieh.tumblr.com/ aaron
+* https://nomocreative.com/
+* http://www.oniondesign.com.tw/
+* http://aaronnieh.tumblr.com/
 * http://wangzhihong.com/
 * https://tinganho.info/
 * http://acstdesign.asia/
@@ -37,11 +37,8 @@
 
 * http://hesign.com/
 * http://www.related.design/
-* http://www.another-lab.com/ cn
-* https://u-d-l.com/ 北京
-* http://untitledmacao.com/ | まかお
-* http://www.gd-morning.org/jim | 香港
-* http://www.alonglongtime.me/ 香港
+* http://www.another-lab.com/
+* https://u-d-l.com/
 * http://kimyeonhee.com/ | 
 * http://Yaxuhan.com
 * http://www.by702.com/
@@ -49,8 +46,12 @@
 * http://www.ablackcover.com/
 * https://transwhite.cn/
 * http://www.gd-morning.org/jim | 香港
+* http://www.alonglongtime.me/ 香港
+
 * http://www.liaoweigraphic.com/
 * https://shao-nian.com/ | 上海
+* http://untitledmacao.com/ | まかお
+
 
 ### Sg
 * http://foreignpolicy.design/
