@@ -7,6 +7,7 @@
 
 ### kr
 
+* http://ynkim.com/
 * https://www.sulki-min.com/
 * http://gang.works/
 * https://ohezin.kr/
