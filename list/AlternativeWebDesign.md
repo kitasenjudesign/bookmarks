@@ -2,27 +2,44 @@
 
 ## AlternativeWebDesigner
 
+### asia
+
+* http://yhsong.com/
+* http://www.semitransparentdesign.com/ 
+* https://www.okok.services/
+* http://shunyahagiwara.com/
+
+### europe
+
+* http://davidliebermann.de 
 * https://maximiliankiepe.de/
 * https://matthiasdeckx.be/
+* https://www.namhuynh.de/ 
+* https://janareddemann.de/
+* https://liebermannkiepereddemann.de/
+* http://www.e-k.fr/
+* https://twomuch.studio/
+
+
+
+### north-america
+
+### south-america
+
+### africa
+
+### ???
+
 * https://sergeyzakharov.dev/
 * http://stephdavidson.com/
 * https://josephpleass.com/
-* http://davidliebermann.de
-* https://liebermannkiepereddemann.de/
-* https://janareddemann.de/
-* http://yhsong.com/
 * http://carlosmayo.info/
 * http://iamziek.com/ 
 * http://www.seanroyparker.com/ 
 * https://littlefragments.com 
-* https://www.okok.services/
 * https://ermolaeva.co/
-* https://www.namhuynh.de/
-* http://www.semitransparentdesign.com/ 
-* http://shunyahagiwara.com/
-* http://www.e-k.fr/
 * https://ezekielaquino.com/
-* https://twomuch.studio/
+* https://www.michaelspeichert.com/
 
 
 ## AlternativeWebDesign Bookmarks
