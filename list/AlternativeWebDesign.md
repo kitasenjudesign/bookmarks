@@ -7,6 +7,8 @@
 * https://hoverstat.es/
 * http://hallointer.net/
 * https://klikkentheke.com/
+* https://brutalistwebsites.com/
+
 
 ### asia
 
