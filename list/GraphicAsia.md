@@ -59,6 +59,7 @@
 * https://www.thankyoudeliveryheroes.com/ kinetic
 
 ### Jp
+* http://aikokoike.com/
 * http://r-m.work/
 * https://marikookazaki.tokyo/
 * https://www.labor-atories.com/
