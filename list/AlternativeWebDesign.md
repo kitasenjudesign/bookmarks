@@ -32,6 +32,8 @@
 
 ### north-america
 
+* https://taliacotton.com/
+
 ### south-america
 
 ### africa
