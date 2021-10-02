@@ -33,6 +33,8 @@
 ### north-america
 
 * https://taliacotton.com/
+* http://stephdavidson.com/　[t](https://twitter.com/stephcd)
+
 
 ### south-america
 
@@ -41,7 +43,6 @@
 ### ???
 
 * https://sergeyzakharov.dev/
-* http://stephdavidson.com/
 * https://josephpleass.com/
 * http://carlosmayo.info/
 * http://iamziek.com/ 
