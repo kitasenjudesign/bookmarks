@@ -33,7 +33,7 @@
 ### north-america
 
 * https://taliacotton.com/
-* http://stephdavidson.com/　[t](https://twitter.com/stephcd)
+* http://stephdavidson.com/　__ [t](https://twitter.com/stephcd)
 
 
 ### south-america
