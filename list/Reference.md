@@ -2,6 +2,10 @@
 
 ## link
 
+## post internet art
+* https://phonearts.net/
+
+
 ### web
 * http://hallointer.net/ web
 * https://klikkentheke.com/ web
@@ -10,7 +14,7 @@
 * http://www.siteinspire.com/
 * http://www.pillowandpill.com/bmpp/
 * http://bm.straightline.jp/
-* https://www.pinterest.com/yuichiroharai/visual/ arai san bookmark
+* https://www.pinterest.com/yuichiroharai/visual/ 
 
 ### hoka
 
