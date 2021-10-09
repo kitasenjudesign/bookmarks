@@ -17,7 +17,7 @@
 * https://www.pinterest.com/yuichiroharai/visual/ 
 
 ### hoka
-
+* https://www.instagram.com/designeverywhere_/
 * https://www.typographicposters.com/ _ グラフィック 
 * http://motionographer.com/ _ モーション
 * https://www.instagram.com/visual.fodder/ visual folder
