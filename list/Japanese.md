@@ -46,7 +46,7 @@
 ## hoka
 * https://twitter.com/mike_at_cg 
 * https://twitter.com/inaniwa3
-* https://twitter.com/daniwell_aidn
+* https://twitter.com/daniwell_aidn nyan cat
 * https://webgl.souhonzan.org/
 
 
