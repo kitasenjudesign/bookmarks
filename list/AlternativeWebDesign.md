@@ -17,6 +17,10 @@
 * https://www.okok.services/
 * http://shunyahagiwara.com/
 
+### oseania
+
+* https://newassoc.world/
+
 ### europe
 
 * https://katharinareidy.ch/
