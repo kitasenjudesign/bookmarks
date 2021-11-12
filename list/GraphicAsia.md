@@ -35,6 +35,7 @@
 
 ### cn
 
+* https://www.itsnicethat.com/features/the-next-generation-2021-zhiqin-lu-graphic-design-200921
 * http://hesign.com/
 * http://www.related.design/
 * http://www.another-lab.com/
