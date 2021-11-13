@@ -16,6 +16,7 @@
 * http://www.semitransparentdesign.com/ 
 * https://www.okok.services/
 * http://shunyahagiwara.com/
+* https://badbadnotgood.design/
 
 ### oseania
 
