@@ -7,6 +7,7 @@
 
 
 ### web
+* https://loadmo.re/
 * http://hallointer.net/ web
 * https://klikkentheke.com/ web
 * http://hoverstat.es web
