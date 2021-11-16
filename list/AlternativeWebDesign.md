@@ -24,7 +24,7 @@
 * https://newassoc.world/
 
 ### europe
-
+* https://neal.fun/ よい
 * https://harald.peter.stream/
 * https://katharinareidy.ch/
 * http://davidliebermann.de __
