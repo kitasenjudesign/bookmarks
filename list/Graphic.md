@@ -57,12 +57,13 @@ matome chu
 * https://thecolourclub.com.au/
 
 ## us
+* https://www.synopticoffice.com/
 * https://andrepeat.com/
 * https://badbadbadbad.com/
 * http://sagmeister.com/
 * http://sagmeisterwalsh.com/
 * https://erikcarter.net/
-* https://www.pentagram.com/ - pentagram
+* https://www.pentagram.com/
 
 ## chili
 http://www.alejandravalenzuela.com/
