@@ -53,6 +53,7 @@
 
 ## GIF loop
 * http://dunun-koken.dunun.com/ loop
+* https://beesandbombs.com/
 * http://beesandbombs.tumblr.com/ gif アニの鬼
 * http://kengarex.com/a-collection-of-24-hypnotizing-meditation-gifs/?ref=5924
 
