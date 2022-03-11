@@ -61,6 +61,7 @@
 * https://www.thankyoudeliveryheroes.com/ kinetic
 
 ### Jp
+* https://www.nipponia.in/
 * http://studioran.tokyo/
 * https://www.soarnewyork.com/
 * https://www.hatayurie.com/
