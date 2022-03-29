@@ -24,6 +24,7 @@
 * https://newassoc.world/
 
 ### europe
+* https://softpower.xyz/
 * https://wrs.design/　
 * https://neal.fun/ よい
 * https://harald.peter.stream/
