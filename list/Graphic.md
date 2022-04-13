@@ -13,6 +13,8 @@ matome chu
 
 ## de
 
+* https://raffaelkormann.com/　すき
+* 
 * http://davidbenski.com/ 
 * https://www.schultzschultz.com/ 最高
 * http://lindhorst-emme.de/ 
