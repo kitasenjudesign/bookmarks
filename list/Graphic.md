@@ -13,7 +13,7 @@ matome chu
 
 ## de
 
-* https://raffaelkormann.com/　すき
+* https://raffaelkormann.com/ suki
 * 
 * http://davidbenski.com/ 
 * https://www.schultzschultz.com/ 最高
