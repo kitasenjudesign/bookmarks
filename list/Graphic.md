@@ -58,7 +58,7 @@ http://www.pavlazabranska.cz/#random
 * http://basilefournier.com/
 * 
 
-## ch _ swiss
+## ch (swiss)
 
 * https://cecile-roger.com/ _ かっこいい
 
@@ -83,7 +83,7 @@ http://www.pavlazabranska.cz/#random
 * https://www.pentagram.com/
 
 ## chili
-http://www.alejandravalenzuela.com/
+* http://www.alejandravalenzuela.com/
 
 ## Matome
 * http://gurafiku.tumblr.com/ _ 日本のグラフィックまとめ
