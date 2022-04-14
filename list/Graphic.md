@@ -47,6 +47,16 @@ http://www.pavlazabranska.cz/#random
 * http://www.theroyalstudio.com/
 * https://www.behance.net/wearegolden _ golden
 * http://www.michaelpaulyoung.com/ 
+* http://davidrudnick.org/
+* http://www.jonathancastro.pe
+* http://obbyxjappari.tumblr.com
+* http://instagram.com/ignorance1
+* http://whose.agency
+* http://sexed-realiti.es
+* http://knoth-renner.com
+* http://florianerousselot.com/
+* http://basilefournier.com/
+* 
 
 ## ch _ swiss
 
@@ -63,6 +73,7 @@ http://www.pavlazabranska.cz/#random
 * https://thecolourclub.com.au/
 
 ## us
+* https://actualsource.org/
 * https://www.synopticoffice.com/
 * https://andrepeat.com/
 * https://badbadbadbad.com/
@@ -79,16 +90,8 @@ http://www.alejandravalenzuela.com/
 * https://www.typographicposters.com/ 
 * http://www.baubauhaus.com/
 
-## IDEAにのってたやつ
-* http://davidrudnick.org/
-* http://www.jonathancastro.pe
-* http://obbyxjappari.tumblr.com
-* http://instagram.com/ignorance1
-* http://whose.agency
-* http://sexed-realiti.es
-* http://knoth-renner.com
-* http://florianerousselot.com/
-* http://basilefournier.com/
+
+
 
 
 
