@@ -36,8 +36,8 @@ matome chu
 
 * http://www.museumstudio.se/
 
-# cz ちぇこ
-http://www.pavlazabranska.cz/#random
+# cz = ちぇこ
+* http://www.pavlazabranska.cz/
 
 
 ## 不明
