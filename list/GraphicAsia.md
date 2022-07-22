@@ -26,6 +26,7 @@
 
 
 ### tw
+
 * https://nomocreative.com/
 * http://www.oniondesign.com.tw/
 * http://aaronnieh.tumblr.com/
@@ -56,11 +57,14 @@
 
 
 ### Sg
+
 * http://foreignpolicy.design/
 * http://www.dariusou.work/
 * https://www.thankyoudeliveryheroes.com/ kinetic
 
 ### Jp
+
+* https://hokkyoku.ltd/
 * https://www.nipponia.in/
 * http://studioran.tokyo/
 * https://www.soarnewyork.com/
