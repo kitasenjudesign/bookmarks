@@ -10,7 +10,7 @@
 * http://ynkim.com/
 * https://www.sulki-min.com/
 * http://gang.works/
-* https://ohezin.kr/ gene
+* https://ohezin.kr/ 
 * http://adearfriend.com/
 * http://www.shin-shin.kr/
 * http://www.press-room.kr/
