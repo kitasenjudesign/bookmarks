@@ -7,6 +7,7 @@
 
 ### kr
 
+* https://www.instagram.com/nagizin/
 * http://ynkim.com/
 * https://www.sulki-min.com/
 * http://gang.works/
