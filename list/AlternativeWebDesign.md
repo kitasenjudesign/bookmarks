@@ -13,6 +13,7 @@
 
 ### asia
 
+* https://www.fariskassim.com/
 * http://yhsong.com/
 * http://www.semitransparentdesign.com/ 
 * https://www.okok.services/
