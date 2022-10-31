@@ -5,7 +5,7 @@
 * [Graphic](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Graphic.md)
 * [Graphic Asia](https://github.com/kitasenjudesign/bookmarks/blob/master/list/GraphicAsia.md)
 * [AlternativeWebDesign](https://github.com/kitasenjudesign/bookmarks/blob/master/list/AlternativeWebDesign.md)
-* [AR](https://github.com/kitasenjudesign/bookmarks/blob/master/list/ARCreator.md)
+* [AR creator](https://github.com/kitasenjudesign/bookmarks/blob/master/list/ARCreator.md)
 
 
 * [Illust](https://github.com/kitasenjudesign/bookmarks/blob/master/list/Illust.md)
