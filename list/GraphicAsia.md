@@ -5,7 +5,7 @@
 
 # Southeast Asia - Graphic Design
 
-### kr
+### korea
 
 * https://www.instagram.com/nagizin/
 * http://ynkim.com/
@@ -26,7 +26,7 @@
 * http://yhsong.com/ gene
 
 
-### tw
+### taiwan
 
 * https://nomocreative.com/
 * http://www.oniondesign.com.tw/
@@ -35,7 +35,7 @@
 * https://tinganho.info/
 * http://acstdesign.asia/
 
-### cn
+### china
 
 * https://tian-design.com/
 * https://www.itsnicethat.com/features/the-next-generation-2021-zhiqin-lu-graphic-design-200921
@@ -55,8 +55,10 @@
 * https://shao-nian.com/ | 上海
 * http://untitledmacao.com/ | まかお
 
+### makao
+* https://untitledmacao.com/about/
 
-### Sg
+### singapole
 
 * http://foreignpolicy.design/
 * http://www.dariusou.work/
