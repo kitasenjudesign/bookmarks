@@ -7,7 +7,7 @@
 
 ### korea
 
-* https://www.instagram.com/nagizin/
+* https://www.instagram.com/nagizin/ https://nagizin.com/
 * http://ynkim.com/
 * https://www.sulki-min.com/
 * http://gang.works/
