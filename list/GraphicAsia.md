@@ -68,6 +68,7 @@
 
 ### Jp
 
+* https://www.labor-atories.com/
 * https://hokkyoku.ltd/
 * https://www.nipponia.in/
 * http://studioran.tokyo/
